@@ -1,2 +1,1 @@
-# discussion11
-Jess and Celine
+# w24_JS_Discussion
